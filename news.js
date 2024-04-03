@@ -14,7 +14,7 @@
 
 // ==UserScript==
 // @name         PCGamer / Tom's Hardware
-// @version      1.0.1
+// @version      1.0.2
 // @description  Clean page
 // @author       Noran Diaconu
 // @match        https://www.pcgamer.com/*
@@ -25,6 +25,7 @@
 (function() {
     'use strict';
     document.getElementById('slice-container-affiliateDisclaimerBar').remove();
+    document.getElementById('article--landing-page--body-copy').remove();
     document.getElementById('newsletter').remove();
     document.getElementById('document-footer').remove();
 })();
