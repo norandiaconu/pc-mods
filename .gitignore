@@ -1,3 +1,5 @@
 Games/**/output
 Games/**/*.7z
 Games/**/*.zip
+Games/**/*.txt
+Games/_*
