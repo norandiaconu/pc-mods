@@ -1,5 +1,5 @@
 ## Alice Madness Returns
 ### 60fps fix
-* Copy and replace `DefaultEngine.ini` in `Shortcut`
-### Nvidia Control Panel
+* Run `run.bat`
+### <span style="color:green">Nvidia Control Panel</span>
 * Monitor Technology: Fixed Refresh

@@ -4,3 +4,5 @@
 * Change display to 250% scaling and audio to speakers
 ## Gsync Toggle
 * Toggle Gsync on and off with Nvidia Control Panel
+## Sleep
+* Put the PC to sleep
