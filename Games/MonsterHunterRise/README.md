@@ -1,4 +1,6 @@
 ## Monster Hunter Rise
+### Note
+* Alt+Enter twice if black screen when launching
 ### Usage
 * Download zips from following links and place in this folder
 * Run `run.bat` and copy contents of `output` folder to `\MonsterHunterRise\`

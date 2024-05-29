@@ -3,7 +3,7 @@
 // @version      1.0.0
 // @description  Clean page
 // @author       Noran Diaconu
-// @match        https://www.figma.com/file/*
+// @match        https://www.figma.com/*
 // @icon         https://static.figma.com/app/icon/1/favicon.ico
 // ==/UserScript==
 
