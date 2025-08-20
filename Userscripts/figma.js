@@ -7,7 +7,7 @@
 // @icon         https://static.figma.com/app/icon/1/favicon.ico
 // ==/UserScript==
 
-(function() {
+(function () {
     'use strict';
     document.querySelector('body').addEventListener('keydown', (e) => {
         if (['Enter', '*'].includes(e.key)) {

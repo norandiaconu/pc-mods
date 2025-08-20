@@ -7,7 +7,7 @@
 // @icon         https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico
 // ==/UserScript==
 
-(function() {
+(function () {
     'use strict';
     document.getElementById('left-sidebar').remove();
     var content = document.getElementById('content').style;
